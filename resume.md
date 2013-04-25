@@ -12,14 +12,14 @@ Software security researcher with expertise in embedded device exploitation, sof
 
 - March 2013: Created open source Bowcaster exploit development framework [1]
 - October 2012: Published remote root exploit for BT HomeHub
-- July 2012: Black Hat USA Presenter
-- July 2012: DEF CON 20 Presenter
+- July 2012: Black Hat USA Presenter [2]
+- July 2012: DEF CON 20 Presenter [3]
 
 
 ### Publications:
-* From SQL Injection to MIPS Overflows: Rooting SOHO Routers [2] 
-* Introduction to Bowcaster [3],[4]
-* BT HomeHub 3.0b Vulnerability Report [5]
+* From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4] 
+* Introduction to Bowcaster [5],[6]
+* BT HomeHub 3.0b Vulnerability Report [7],[8]
 
 ### Experience ###
 
@@ -28,8 +28,8 @@ Software security researcher with expertise in embedded device exploitation, sof
     Senior Vulnerability Researcher, October 2011 - Present
 
     - Vulnerability research and exploit development against embedded systems.
-    - Co-instructed Introduction to Embedded Device Exploitation course.[6]  
-    - Helped develop Advanced Embedded Device Exploitation course.[6]  
+    - Co-instructed Introduction to Embedded Device Exploitation course.[9]  
+    - Helped develop Advanced Embedded Device Exploitation course.[9]  
     - Developed surreptitious capability enabling connection to a target behind a well-defended boundary.  
         Encrypted, remotely triggered.
     - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities.
@@ -83,12 +83,18 @@ Software security researcher with expertise in embedded device exploitation, sof
 
 [1] https://github.com/zcutlip/bowcaster
 
-[2] http://tinyurl.com/agjr6bm (media.blackhat.com)
+[2] https://vimeo.com/64809593
 
-[3] http://shadow-file.blogspot.com/2013/03/crossbow.html
+[3] https://vimeo.com/64809592
 
-[4] http://shadow-file.blogspot.com/2013/03/buffer-overflows-with-crossbow-part-1.html
+[4] http://tinyurl.com/agjr6bm (media.blackhat.com)
 
-[5] http://lists.grok.org.uk/pipermail/full-disclosure/2013-January/089348.html
+[5] http://shadow-file.blogspot.com/2013/03/crossbow.html
 
-[6] http://tacnetsol.com/training
+[6] http://shadow-file.blogspot.com/2013/03/buffer-overflows-with-crossbow-part-1.html
+
+[7] http://lists.grok.org.uk/pipermail/full-disclosure/2013-January/089348.html
+
+[8] https://vimeo.com/52954499
+
+[9] http://tacnetsol.com/training
