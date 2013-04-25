@@ -1,5 +1,5 @@
 # Zachary Cutlip
-zachary.cutlip@gmail.com
+zachary[dot]cutlip[at]gmail.com
 
 ### Senior Security Researcher
 
