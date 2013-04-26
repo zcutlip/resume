@@ -13,7 +13,7 @@ Software security researcher with expertise in embedded device exploitation, sof
 - March 2013: Created open source Bowcaster exploit development framework [1]
 - October 2012: Published remote root exploit for BT HomeHub
 - July 2012: Black Hat USA Presenter [2]
-- July 2012: DEF CON 21 Presenter [3]
+- July 2012: DEF CON 20 Presenter [3]
 
 
 ### Publications:
