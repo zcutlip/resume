@@ -13,7 +13,7 @@ Software security researcher with expertise in embedded device exploitation, sof
 - March 2013: Created open source Bowcaster exploit development framework [1]
 - October 2012: Published remote root exploit for BT HomeHub
 - July 2012: Black Hat USA Presenter [2]
-- July 2012: DEF CON 20 Presenter [3]
+- July 2012: DEF CON 21 Presenter [3]
 
 
 ### Publications:
@@ -35,6 +35,7 @@ Software security researcher with expertise in embedded device exploitation, sof
     - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities.
     - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment.
     - Developed a method of accepting incoming TCP connections undetectable by traditional port scanning tools.
+  
 
 *   **Raytheon Applied Signal Technology (formerly Seismic, LLC)**
     
@@ -45,7 +46,7 @@ Software security researcher with expertise in embedded device exploitation, sof
     - Developed tool-chain for decrypting, analyzing, & manipulating proprietary Remote Desktop Protocol data
     - Developed parser for Windows PE executable files and DLLs
     - Developed and maintained multipurpose C library, ensuring compatibility across multiple Windows and Unix OSes
-
+  
 *   **Tresys Technology, LLC**
     
     Senior Software Engineer, March 2007 - November 2009
