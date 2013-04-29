@@ -36,7 +36,7 @@ Software security researcher with expertise in embedded device exploitation, sof
     - Vulnerability research and exploit development against embedded systems.
     - Co-instructed Introduction to Embedded Device Exploitation course.[9]  
     - Helped develop Advanced Embedded Device Exploitation course.[9]  
-    - Developed surreptitious capability enabling connection to a target behind a well-defended boundary.  
+    - Developed surreptitious embedded device firmware, enabling connection to a target behind a well-defended boundary.  
         Encrypted, remotely triggered.
     - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities.
     - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment.
