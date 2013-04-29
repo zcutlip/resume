@@ -21,6 +21,12 @@ Software security researcher with expertise in embedded device exploitation, sof
 * Introduction to Bowcaster [5],[6]
 * BT HomeHub 3.0b Vulnerability Report [7],[8]
 
+### Education ###
+* Johns Hopkins University
+    * Master of Science in Computer Science
+* Texas A&M University
+    * Bachelor of Business Administration in Information Operations Management
+
 ### Experience ###
 
 *   **Tactical Network Solutions, LLC**
