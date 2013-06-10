@@ -1,6 +1,8 @@
 # Zachary Cutlip
 zachary[dot]cutlip[at]gmail.com
 
+Twitter:[@zcutlip](https://twitter.com/zcutlip)
+
 ### Senior Security Researcher
 
 
