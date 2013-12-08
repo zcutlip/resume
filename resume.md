@@ -10,18 +10,23 @@ Twitter:[@zcutlip](https://twitter.com/zcutlip)
 
 Software security researcher with expertise in embedded device exploitation, software reverse engineering and vulnerability research.
 
-### Highlights ###
+### Projects ###
 
-- March 2013: Created open source Bowcaster exploit development framework [1]
-- October 2012: Published remote root exploit for BT HomeHub
-- July 2012: Black Hat USA Presenter [2]
-- July 2012: DEF CON 20 Presenter [3]
+* Bowcaster Exploit Development Framework[1].
+
+### Honors & Awards ###
+
+#### Speaker: ####
+* Black Hat USA 2012 [2]
+* DEF CON 20 [3]
+* University of Wisconsin Lockdown 2013
+* 44CON 2013
+* BayThreat 4
 
 
 ### Publications:
-* From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4] 
-* Introduction to Bowcaster [5],[6]
-* BT HomeHub 3.0b Vulnerability Report [7],[8]
+* From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4]
+* Reverse Engineering and Exploiting the BT HomeHub 3.0b [5]
 
 ### Education ###
 * Johns Hopkins University
@@ -36,9 +41,10 @@ Software security researcher with expertise in embedded device exploitation, sof
     Senior Vulnerability Researcher, October 2011 - Present
 
     - Vulnerability research and exploit development against embedded systems.
-    - Co-instructed Introduction to Embedded Device Exploitation course.[9]  
-    - Helped develop Advanced Embedded Device Exploitation course.[9]  
-    - Developed surreptitious embedded device firmware, enabling connection to a target behind a well-defended boundary.  
+    - Implemented covert communications between cooperative processes embedded in traffic destined to a non-complicit SSH server.
+    - Co-instructed Introduction to Embedded Device Exploitation course. 
+    - Helped develop Advanced Embedded Device Exploitation course.  
+    - Developed surreptitious embedded device firmware, enabling connection to a target behind a well-defended boundary.
         Encrypted, remotely triggered.
     - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities.
     - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment.
@@ -88,22 +94,22 @@ Software security researcher with expertise in embedded device exploitation, sof
 
     Communications Plans Officer, July 2000 - August 2001
 
+Resume Source: [http://github.com/zcutlip/resume](http://github.com/zcutlip/resume)
+
 * * * *
 
-[1] https://github.com/zcutlip/bowcaster
+[1]: https://github.com/zcutlip/bowcaster
 
-[2] https://vimeo.com/64809593
+[2]: https://vimeo.com/64809593
 
-[3] https://vimeo.com/64809592
+[3]: https://vimeo.com/64809592
 
-[4] http://tinyurl.com/agjr6bm (media.blackhat.com)
+[4]: http://tinyurl.com/agjr6bm (media.blackhat.com)
 
-[5] http://shadow-file.blogspot.com/2013/03/crossbow.html
+[5]: http://s3.amazonaws.com/zcutlip_storage/BT%20HomeHub3.0b%2044Con%20(Zachary%20Cutlip).pdf
 
-[6] http://shadow-file.blogspot.com/2013/03/buffer-overflows-with-crossbow-part-1.html
+[6]: http://lists.grok.org.uk/pipermail/full-disclosure/2013-January/089348.html
 
-[7] http://lists.grok.org.uk/pipermail/full-disclosure/2013-January/089348.html
+[7]: https://vimeo.com/52954499
 
-[8] https://vimeo.com/52954499
-
-[9] http://tacnetsol.com/training
+[8]: http://tacnetsol.com/training
