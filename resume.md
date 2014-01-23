@@ -15,7 +15,7 @@ Speaker:
 * BayThreat 4
 
 
-### Projects & Publications:
+#### Projects & Publications:
 * Bowcaster Exploit Development Framework [3]
 * From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4]
 * Reverse Engineering and Exploiting the BT HomeHub 3.0b [5]
@@ -43,7 +43,6 @@ Speaker:
     - Co-instructed Introduction to Embedded Device Exploitation course. 
     - Helped develop Advanced Embedded Device Exploitation course
     - Developed surreptitious embedded device firmware, enabling encrypted, remotely triggered connection to a target behind a well-defended boundary
-    - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities
     - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment
     - Developed a method of accepting incoming TCP connections undetectable by traditional port scanning tools
 
@@ -53,7 +52,7 @@ Speaker:
     Senior Security Engineer, November 2009 - October 2011
     
     - Security tool development for the National Security Agency
-    - Added custom cabability for an open-source penetration testing framework
+    - Added custom capability to an open-source penetration testing framework
     - Developed tool-chain for decrypting, analyzing, & manipulating proprietary Remote Desktop Protocol data
     - Developed parser for Windows PE executable files and DLLs
   
@@ -61,9 +60,7 @@ Speaker:
     
     Senior Software Engineer, March 2007 - November 2009
 
-    - Led development Java Message Service (JMS) guarding appliance
-    	- Extremely high performance JMS filter, developing in pure C on Linux
-    - Developed automated build system producing bootable installation images from project source code
+    - Developed (JMS) guarding appliance developing in pure C on Linux
     - Led vulnerability assessment of distributed intrusion detection system, uncovering multiple vulnerabilities through software reverse engineering and architecture review
     - Developed SELinux Mandatory Access Control Policy
 
@@ -71,11 +68,6 @@ Speaker:
 
     Operating System Vulnerability Analyst, May 2004 - June 2006
     
-    - Developed method to fuzz executable file loaders in operating system kernels
-    - Developed Linux & Unix security configuration guidance for DoD classified and unclassified Systems
-    - Researched operating systems technology to identify vulnerabilities and corresponding mitigation strategies
-
-
     Officer-in-Charge, ISSE Guards, March 2003 - March 2004
     
 
