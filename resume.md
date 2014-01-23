@@ -1,11 +1,11 @@
-# Zachary Cutlip
+## Zachary Cutlip
 zachary.cutlip at gmail.com
 
-### Senior Vulnerability Researcher
+#### Senior Vulnerability Researcher
 
 Software security researcher with expertise in embedded device exploitation, software reverse engineering and vulnerability research.
 
-### Honors & Awards ###
+#### Honors & Awards
 
 Speaker:
 * Black Hat USA 2012 [1]
@@ -20,13 +20,13 @@ Speaker:
 * From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4]
 * Reverse Engineering and Exploiting the BT HomeHub 3.0b [5]
 
-### Education ###
+#### Education
 * Johns Hopkins University
     * Master of Science in Computer Science
 * Texas A&M University
     * Bachelor of Business Administration in Information Operations Management
 
-### Experience ###
+#### Experience
 
 *   **Tactical Network Solutions, LLC**
 
