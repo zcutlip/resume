@@ -33,7 +33,13 @@ Speaker:
     Senior Vulnerability Researcher, October 2011 - Present
 
     - Developed tools and techniques for research and exploitation of embedded systems
+    - Reverse engineered proprietary networking API for a managed switch
+      - Gained ability to write raw VLAN-tagged ethernet frames to the wire
+    - Reverse engineered, binary patched BT modem's UPnP stack to run in emulation
+      - Developed proof-of-concept exploit entirely in emulation
     - Implemented covert communications between cooperative processes embedded in traffic destined to a non-cooperating SSH server
+    - Reverse engineered SOHO router vendor's UPnP stack
+      - Identified and exploited partially implemented functionality for remote firmware upload
     - Co-instructed Introduction to Embedded Device Exploitation course. 
     - Helped develop Advanced Embedded Device Exploitation course
     - Developed surreptitious embedded device firmware, enabling encrypted, remotely triggered connection to a target behind a well-defended boundary
