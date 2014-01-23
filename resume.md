@@ -1,5 +1,5 @@
 # Zachary Cutlip
-zachary[dot]cutlip[at]gmail.com
+zachary.cutlip at gmail.com
 
 ### Senior Vulnerability Researcher
 
@@ -32,15 +32,14 @@ Speaker:
 
     Senior Vulnerability Researcher, October 2011 - Present
 
-    - Developed tools and techniques for research and exploitation of embedded systems.
-    - Implemented covert communications between cooperative processes embedded in traffic destined to a non-complicit SSH server.
+    - Developed tools and techniques for research and exploitation of embedded systems
+    - Implemented covert communications between cooperative processes embedded in traffic destined to a non-cooperating SSH server
     - Co-instructed Introduction to Embedded Device Exploitation course. 
-    - Helped develop Advanced Embedded Device Exploitation course.  
-    - Developed surreptitious embedded device firmware, enabling connection to a target behind a well-defended boundary.
-        Encrypted, remotely triggered.
-    - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities.
-    - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment.
-    - Developed a method of accepting incoming TCP connections undetectable by traditional port scanning tools.
+    - Helped develop Advanced Embedded Device Exploitation course
+    - Developed surreptitious embedded device firmware, enabling encrypted, remotely triggered connection to a target behind a well-defended boundary
+    - Developed a novel exploitation technique combining low-value, high-exposure vulnerabilities with high-value, low exposure vulnerabilities
+    - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment
+    - Developed a method of accepting incoming TCP connections undetectable by traditional port scanning tools
 
 
 *   **Raytheon Applied Signal Technology (formerly Seismic, LLC)**
