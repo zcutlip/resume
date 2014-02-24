@@ -40,7 +40,7 @@ Speaker:
     - Implemented covert communications between cooperative processes embedded in traffic destined to a non-cooperating SSH server
     - Reverse engineered SOHO router vendor's UPnP stack
       - Identified and exploited partially implemented functionality for remote firmware upload
-    - Co-instructed Introduction to Embedded Device Exploitation course. 
+    - Co-instructed Introduction to Embedded Device Exploitation course 
     - Helped develop Advanced Embedded Device Exploitation course
     - Developed surreptitious embedded device firmware, enabling encrypted, remotely triggered connection to a target behind a well-defended boundary
     - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment
