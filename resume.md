@@ -13,12 +13,14 @@ Speaker:
 * University of Wisconsin "Lockdown 2013"
 * 44CON 2013
 * BayThreat 4
+* Infiltrate 2014
 
 
 #### Projects & Publications:
 * Bowcaster Exploit Development Framework [3]
 * From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4]
 * Reverse Engineering and Exploiting the BT HomeHub 3.0b [5]
+* SQL Injection to MIPS Overflows - Part Deux [6]
 
 #### Education
 * Johns Hopkins University
@@ -30,7 +32,7 @@ Speaker:
 
 *   **Tactical Network Solutions, LLC**
 
-    Senior Vulnerability Researcher, October 2011 - Present
+    Senior Vulnerability Researcher, October 2011 - March 2014
 
     - Developed tools and techniques for research and exploitation of embedded systems
     - Reverse engineered proprietary networking API for a managed switch
@@ -90,6 +92,8 @@ Speaker:
 [4] <http://tinyurl.com/agjr6bm> [pdf]
 
 [5] <http://tinyurl.com/n9wnemp> [pdf]
+
+[6] <http://shadow-file.blogspot.com/2014/05/infiltrate-2014.html>
 
 -------
 Resume Source: [http://github.com/zcutlip/resume](http://github.com/zcutlip/resume)
