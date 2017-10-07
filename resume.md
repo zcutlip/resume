@@ -1,11 +1,11 @@
 ## Zachary Cutlip
 zachary.cutlip at gmail.com
 
-#### Senior Vulnerability Researcher
+#### Offensive Security Researcher
 
 Software security researcher with expertise in embedded device exploitation, software reverse engineering and vulnerability research.
 
-#### Honors & Awards
+#### Conference Presentations
 
 Speaker:
 * Black Hat USA 2012 [1]
@@ -27,10 +27,28 @@ Speaker:
     * Bachelor of Business Administration in Information Operations Management
 
 #### Experience
+*   **Apple, Inc.**
+
+    Offensive Security Researcher, May 2014 - Present
+    
+    - XNU kernel security/source auditing
+    - Implemented tooling to detect kernel information leaks
+    - Merged changes to XNU kernel to enable in-kext kernel instrumentation/leak detection
+    - EFI firmware security, source auditing
+    - Implemented EFI mechanism to detect/prevent change of boot device
+    - Identified/exploited vulnerability allowing a SIP-disabling EFI app to be blessed
+    - Audited APFS filesystem implementations across iBoot, EFI, kernel, & userspace
+    - Performed forensic analysis of APFS volume encryption
+    - Identified & coordinated fix for hundreds of cases of unsafe object unserialization
+    - Coordinated massive, company-wide refactor of unsafe object serialization API
+    - Developed proof-of-concept exploits for kernel information leaks and memory corruption bugs
+    - Developed proof-of-concept iOS exploit persistence mechanism
+    - Co-developed exploitation-oriented secure software development training
+    - Developed automated tooling to instrument Safari/Webkit kernel interaction
 
 *   **Tactical Network Solutions, LLC**
 
-    Senior Vulnerability Researcher, October 2011 - Present
+    Senior Vulnerability Researcher, October 2011 - March 2014
 
     - Developed tools and techniques for research and exploitation of embedded systems
     - Reverse engineered proprietary networking API for a managed switch
@@ -51,33 +69,19 @@ Speaker:
     
     Senior Security Engineer, November 2009 - October 2011
     
-    - Security tool development for the National Security Agency
-    - Added custom capability to an open-source penetration testing framework
-    - Developed tool-chain for decrypting, analyzing, & manipulating proprietary Remote Desktop Protocol data
-    - Developed parser for Windows PE executable files and DLLs
+    Developed multi-platform, post-exploitation tooling.
   
 *   **Tresys Technology, LLC**
     
     Senior Software Engineer, March 2007 - November 2009
 
-    - Developed (JMS) guarding appliance developing in pure C on Linux
-    - Led vulnerability assessment of distributed intrusion detection system, uncovering multiple vulnerabilities through software reverse engineering and architecture review
-    - Developed SELinux Mandatory Access Control Policy
+    Developed hardened appliances and SELinux Mandatory Access Control policy
 
 *   **National Security Agency/USAF**
 
     Operating System Vulnerability Analyst, May 2004 - June 2006
     
     Officer-in-Charge, ISSE Guards, March 2003 - March 2004
-    
-
-* **12th Air Force Network Operations Security Center**
-
-    Crew Commander, August 2001 - March 2003
-    
-* **612th Air Communications Squadron**
-
-    Communications Plans Officer, July 2000 - August 2001
 
 * * * *
 
