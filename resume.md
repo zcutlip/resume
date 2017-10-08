@@ -6,19 +6,19 @@ zachary.cutlip at gmail.com
 Software security researcher with expertise in embedded device exploitation, software reverse engineering and vulnerability research.
 
 #### Conference Presentations
-
-Speaker:
-* Black Hat USA 2012 [1]
-* DEF CON 20 [2]
-* University of Wisconsin "Lockdown 2013"
-* 44CON 2013
+* Infiltrate 2014 [1]
+* 44CON 2013 [2]
 * BayThreat 4
+* Black Hat USA 2012 [3]
+* DEF CON 20 [4]
+* University of Wisconsin "Lockdown 2013"
 
 
 #### Projects & Publications:
-* Bowcaster Exploit Development Framework [3]
-* From SQL Injection to MIPS Overflows: Rooting SOHO Routers [4]
-* Reverse Engineering and Exploiting the BT HomeHub 3.0b [5]
+* Bowcaster Exploit Development Framework [5]
+* From SQL Injection to MIPS Overflows: Rooting SOHO Routers [6]
+* Reverse Engineering and Exploiting the BT HomeHub 3.0b [7]
+* Broken, Abandoned, and Forgotten Code: Parts 1-14 [8]
 
 #### Education
 * Johns Hopkins University
@@ -85,15 +85,21 @@ Speaker:
 
 * * * *
 
-[1] <https://vimeo.com/64809593>
+[1] <https://tinyurl.com/mq4aphk> [pdf]
 
-[2] <https://vimeo.com/64809592>
+[2] <https://vimeo.com/album/3091923/video/109380798>
 
-[3] <https://github.com/zcutlip/bowcaster>
+[3] <https://vimeo.com/64809593>
 
-[4] <http://tinyurl.com/agjr6bm> [pdf]
+[4] <https://vimeo.com/64809592>
 
-[5] <http://tinyurl.com/n9wnemp> [pdf]
+[5] <https://github.com/zcutlip/bowcaster>
+
+[6] <http://tinyurl.com/agjr6bm> [pdf]
+
+[7] <http://tinyurl.com/n9wnemp> [pdf]
+
+[8] <https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html>
 
 -------
 Resume Source: [http://github.com/zcutlip/resume](http://github.com/zcutlip/resume)
