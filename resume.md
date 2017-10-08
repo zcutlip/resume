@@ -3,7 +3,7 @@ zachary.cutlip at gmail.com
 
 #### Offensive Security Researcher
 
-Software security researcher with expertise in embedded device exploitation, software reverse engineering and vulnerability research.
+I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are my bad medicine. I also like making tools that make all of those other things easier.
 
 #### Conference Presentations
 * Infiltrate 2014 [1]
@@ -32,19 +32,20 @@ Software security researcher with expertise in embedded device exploitation, sof
     Offensive Security Researcher, May 2014 - Present
     
     - XNU kernel security/source auditing
-    - Implemented tooling to detect kernel information leaks
-    - Merged changes to XNU kernel to enable in-kext kernel instrumentation/leak detection
+    - Implemented tooling to detect kernel information leaks in as they happen while remaining day-to-day livable
+    - Shipping XNU kernel contains my instrumentation/leak detection
     - EFI firmware security, source auditing
     - Implemented EFI mechanism to detect/prevent change of boot device
-    - Identified/exploited vulnerability allowing a SIP-disabling EFI app to be blessed
-    - Audited APFS filesystem implementations across iBoot, EFI, kernel, & userspace
+    - Identified/exploited vulnerability allowing a macOS SIP-disabling EFI app to be blessed
+    - Audited macOS/iOS APFS filesystem implementations across iBoot, EFI, kernel, & userspace
     - Performed forensic analysis of APFS volume encryption
-    - Identified & coordinated fix for hundreds of cases of unsafe object unserialization
+    - Identified & coordinated fix for hundreds of cases of unsafe Objective-C unserialization
     - Coordinated massive, company-wide refactor of unsafe object serialization API
     - Developed proof-of-concept exploits for kernel information leaks and memory corruption bugs
     - Developed proof-of-concept iOS exploit persistence mechanism
     - Co-developed exploitation-oriented secure software development training
-    - Developed automated tooling to instrument Safari/Webkit kernel interaction
+    - Developed automated tooling to instrument Safari/Webkit calls to BSD and Mach kernel interfaces
+    - Developed tooling to identify unused kernel interfaces and gather evidence to support removal
 
 *   **Tactical Network Solutions, LLC**
 
