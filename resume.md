@@ -102,5 +102,7 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
 
 [8] <https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html>
 
+[6] <http://shadow-file.blogspot.com/2014/05/infiltrate-2014.html>
+
 -------
 Resume Source: [http://github.com/zcutlip/resume](http://github.com/zcutlip/resume)
