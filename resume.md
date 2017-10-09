@@ -30,7 +30,7 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
 *   **Apple, Inc.**
 
     Offensive Security Researcher, May 2014 - Present
-    
+
     - XNU kernel security/source auditing
     - Implemented tooling to detect kernel information leaks in as they happen while remaining day-to-day livable
     - Shipping XNU kernel contains my instrumentation/leak detection
@@ -59,7 +59,7 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
     - Implemented covert communications between cooperative processes embedded in traffic destined to a non-cooperating SSH server
     - Reverse engineered SOHO router vendor's UPnP stack
       - Identified and exploited partially implemented functionality for remote firmware upload
-    - Co-instructed Introduction to Embedded Device Exploitation course 
+    - Co-instructed Introduction to Embedded Device Exploitation course
     - Helped develop Advanced Embedded Device Exploitation course
     - Developed surreptitious embedded device firmware, enabling encrypted, remotely triggered connection to a target behind a well-defended boundary
     - Developed a surreptitious implant capability tailored for a specific vendor's network infrastructure equipment
@@ -67,13 +67,13 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
 
 
 *   **Raytheon Applied Signal Technology (formerly Seismic, LLC)**
-    
+
     Senior Security Engineer, November 2009 - October 2011
-    
-    Developed multi-platform, post-exploitation tooling.
-  
+
+    Developed multi-platform, post-exploitation tooling
+
 *   **Tresys Technology, LLC**
-    
+
     Senior Software Engineer, March 2007 - November 2009
 
     Developed hardened appliances and SELinux Mandatory Access Control policy
@@ -81,7 +81,7 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
 *   **National Security Agency/USAF**
 
     Operating System Vulnerability Analyst, May 2004 - June 2006
-    
+
     Officer-in-Charge, ISSE Guards, March 2003 - March 2004
 
 * * * *
