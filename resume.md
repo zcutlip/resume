@@ -3,7 +3,7 @@ zachary.cutlip at gmail.com
 
 #### Offensive Security Researcher
 
-I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are my bad medicine. I like making tools that make all of those other things easier. I love sharing what I've learned with others either in person, by blogging, or doing technical presentations.
+I like memory corruption, debuggers, and hex editors. I love a good, artisanal gadget chain. I like making tools that make all of those things easier. I love sharing what I've learned with others either in person, in writing, or doing technical presentations.
 
 #### Conference Presentations
 * Infiltrate 2014 [1]
