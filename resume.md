@@ -32,7 +32,7 @@ I like memory corruption, debuggers, and hex editors. I love a good, artisanal g
     Offensive Security Researcher, May 2014 - Present
 
     - XNU kernel security/source auditing
-    - Implemented tooling to detect kernel information leaks in as they happen while remaining day-to-day livable
+    - Implemented tooling to detect kernel information leaks as they happen while remaining day-to-day livable
     - Merged instrumentation/leak detection into shipping XNU kernel
     - EFI firmware security, source auditing
     - Implemented EFI mechanism to detect/prevent change of boot device
