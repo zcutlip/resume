@@ -70,7 +70,7 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
 
     Senior Security Engineer, November 2009 - October 2011
 
-    Developed multi-platform, post-exploitation tooling
+    Developed multi-platform, post-exploitation tooling.
 
 *   **Tresys Technology, LLC**
 
@@ -101,8 +101,6 @@ I like memory corruption, debuggers, and hex editors. Bespoke gadget chains are 
 [7] <http://tinyurl.com/n9wnemp> [pdf]
 
 [8] <https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html>
-
-[6] <http://shadow-file.blogspot.com/2014/05/infiltrate-2014.html>
 
 -------
 Resume Source: [http://github.com/zcutlip/resume](http://github.com/zcutlip/resume)
