@@ -33,7 +33,7 @@ I like memory corruption, debuggers, and hex editors. I love a good, artisanal g
 
     - XNU kernel security/source auditing
     - Implemented tooling to detect kernel information leaks as they happen while remaining day-to-day livable
-    - Merged instrumentation/leak detection into shipping XNU kernel
+    - Merged info leak instrumentation/detection into shipping XNU kernel
     - EFI firmware security, source auditing
     - Implemented EFI mechanism to detect/prevent change of boot device
     - Identified/exploited vulnerability allowing a macOS SIP-disabling EFI app to be blessed
