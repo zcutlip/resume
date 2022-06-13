@@ -66,11 +66,11 @@ Senior Vulnerability Researcher, October 2011 - March 2014
   * Johns Hopkins University: MS in Computer Science
   * Texas A&M University: BBA in Information Operations Management
 
-[^1]:  <https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html>
+[^1]: https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html
 [^2]: https://shadowfile.inode.link/blog/2018/10/source-level-debugging-the-xnu-kernel/
-[^3]:  <http://tinyurl.com/n9wnemp> [pdf]
+[^3]: <http://tinyurl.com/n9wnemp> [pdf]
 [^4]: <http://tinyurl.com/agjr6bm> [pdf]
-[^5]:  <https://github.com/zcutlip/bowcaster>
+[^5]: https://github.com/zcutlip/bowcaster
 
 
 
