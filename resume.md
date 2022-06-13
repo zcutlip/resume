@@ -7,7 +7,7 @@ I like memory corruption, debuggers, and hex editors. I love a good, artisanal g
 
 ### Experience
 
-#### **Azimuth Security** (now L3Harris Trenchant)
+#### **Azimuth Security, LLC** (now L3Harris Trenchant)
 
 Offensive Security Researcher, May 2018 - Present
 
