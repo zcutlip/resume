@@ -71,12 +71,3 @@ Senior Vulnerability Researcher, October 2011 - March 2014
 [^3]: <http://tinyurl.com/n9wnemp> [pdf]
 [^4]: <http://tinyurl.com/agjr6bm> [pdf]
 [^5]: https://github.com/zcutlip/bowcaster
-
-
-
-
-
-
-
--------
-Resume Source: [http://github.com/zcutlip/resume](http://github.com/zcutlip/resume)
