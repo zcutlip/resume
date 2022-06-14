@@ -31,6 +31,7 @@ Senior Vulnerability Researcher, October 2011 - March 2014
 - Conducted vulnerability research against embedded targets
 - Developed surreptitious, post-exploitation capabilities
 - R&D of exploitation techniques against new classes of targets
+- Shared research via conference talks, whitepapers and technical blog posts
 
 
 #### **Raytheon Applied Signal Technology (formerly Seismic, LLC)**
