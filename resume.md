@@ -14,7 +14,7 @@ Offensive Security Researcher, May 2018 - Present
 - Conducted vulnerability research against iOS and macOS kernel and userspace
 - Extensively reverse engineered critical operating system components
 - Developed tooling to aid vulnerability research and attack surface enumeration
-  - E.g., completely reverse engineered iOS binary sandbox format & developed sandbox profile decompiler
+  - E.g., completely reverse engineered iOS binary sandbox format & developed a sandbox profile decompiler
 
 #### **Apple, Inc.**
 
@@ -23,6 +23,7 @@ Offensive Security Researcher, May 2014 - April 2018
 - Analyzed numerous Apple technologies to catch vulnerabilities before shipping
 - Audited kernel, security critical firmware, and userspace components
 - Developed tooling and instrumentation to automate vulnerability discovery
+- Committed code to shipping XNU to aid vulnerability research
 
 #### **Tactical Network Solutions, LLC**
 
