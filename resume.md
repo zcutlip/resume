@@ -57,19 +57,21 @@ Senior Vulnerability Researcher, October 2011 - March 2014
 
   ### Projects & Publications:
 
-  * Broken, Abandoned, and Forgotten Code: Parts 1-14 [^1]
-  * Source Debugging the XNU Kernel [^2]
-  * Reverse Engineering and Exploiting the BT HomeHub 3.0b [^3]
-  * From SQL Injection to MIPS Overflows: Rooting SOHO Routers [^4]
-  * Bowcaster Exploit Development Framework [^5]
+  * Practical Exploitation of Pegasus Kernel Vulnerabilities[^1]
+  * Broken, Abandoned, and Forgotten Code: Parts 1-14[^2]
+  * Source Debugging the XNU Kernel[^3]
+  * Reverse Engineering and Exploiting the BT HomeHub 3.0b [^4]
+  * From SQL Injection to MIPS Overflows: Rooting SOHO Routers [^5]
+  * Bowcaster Exploit Development Framework [^6]
 
   ### Education
 
   * Johns Hopkins University: MS in Computer Science
   * Texas A&M University: BBA in Information Operations Management
 
-[^1]: https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html
-[^2]: https://shadowfile.inode.link/blog/2018/10/source-level-debugging-the-xnu-kernel/
-[^3]: <http://tinyurl.com/n9wnemp> [pdf]
-[^4]: <http://tinyurl.com/agjr6bm> [pdf]
-[^5]: https://github.com/zcutlip/bowcaster
+[^1]: https://shadowfile.inode.link/blog/2022/07/revisiting-pegasus-on-ios9/
+[^2]: https://shadow-file.blogspot.com/2015/04/broken-abandoned-and-forgotten-code_22.html
+[^3]: https://shadowfile.inode.link/blog/2018/10/source-level-debugging-the-xnu-kernel/
+[^4]: <http://tinyurl.com/n9wnemp> [pdf]
+[^5]: <http://tinyurl.com/agjr6bm> [pdf]
+[^6]: https://github.com/zcutlip/bowcaster
