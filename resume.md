@@ -9,7 +9,7 @@ I like memory corruption, debuggers, and hex editors. I love a good, artisanal g
 
 #### **Azimuth Security, LLC** (now L3Harris Trenchant)
 
-Offensive Security Researcher, May 2018 - Present
+Offensive Security Researcher, May 2018 - March 2023
 
 - Conducted vulnerability research against iOS and macOS kernel and userspace
 - Extensively reverse engineered critical operating system components
